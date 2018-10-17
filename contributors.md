@@ -22,3 +22,10 @@
 - Place: Ahmedabad, Gujarat, India
 - Bio: Human with a desire for development
 - GitHub: [aditmodhvadia](https://github.com/aditmodhvadia/)
+
+### Name: [Jay Joshi](https://github.com/aditmodhvadia/)
+- Place: Gandhidham, Gujarat, India
+- Bio: Human with a desire for development
+- GitHub: [aditmodhvadia](https://github.com/aditmodhvadia/)
+
+
